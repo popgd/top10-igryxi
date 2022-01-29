@@ -1,0 +1,37 @@
+h1 {
+text-align: center; /* горизонтальное выравнивание текста по центру */
+color: red; /* изменяем цвет текста */
+}
+p {
+color: blue; /* изменяем цвет текста */
+}
+body { 
+margin-top: 50px; 
+border: 5px solid green;
+font-family: courier;
+}
+h2 {
+text-align: ; /* горизонтальное выравнивание текста по центру */
+color: red; /* изменяем цвет текста */
+}
+h3 {
+text-align: ; /* горизонтальное выравнивание текста по центру */
+color: red; /* изменяем цвет текста */
+}
+h6 {
+text-align: ; /* горизонтальное выравнивание текста по центру */
+color: blue; /* изменяем цвет текста */
+}
+h4 {
+text-align: ; /* горизонтальное выравнивание текста по центру */
+color: blue; /* изменяем цвет текста */
+}
+.top-card {
+border: 5px solid orange;
+width: 100px;
+}
+.top-card img {
+width: 100px;
+height: 100px;
+border-bottom: 1px solid;
+}

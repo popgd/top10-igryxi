@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC"-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Stixi.ru</title>
+<style>
+.top-card {
+border: 5px solid orange;
+width: 100px;
+}
+.top-card img {
+width: 100px;
+height: 100px;
+border-bottom: 1px solid;
+}
+.test {
+background-color: blue;
+body {
+background: #F2F2F2;
+max-width: 900px;
+margin: 10px auto;
+padding: 30px;
+}
+h1{
+text-align: center;
+color: #red;
+padding-bottom: 20px;
+margin-bottom: 20px;
+border-bottom: 2px solid #BEBEBE;
+}
+p{
+font:italic;
+color: blue;
+}
+</style>
+</head>
+<body>
+<h1>Это тег заголовка первого уровня для содержимого страницы</h1>
+<p><right>Первый абзац</right></p>
+
+ 
+ 
+</body>
+</html>
